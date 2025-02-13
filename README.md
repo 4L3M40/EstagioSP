@@ -120,7 +120,6 @@ Este exercício inverte uma string fornecida pelo usuário. O código percorre a
    ```bash
    python nome_do_arquivo.py
    ```
-   ## Licença
+## Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
+Este projeto está licenciado sob a [MIT License](LICENSE). Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
