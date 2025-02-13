@@ -110,3 +110,5 @@ Este exercício inverte uma string fornecida pelo usuário. O código percorre a
 4. Execute o arquivo Python correspondente usando o comando:
    ```bash
    python nome_do_arquivo.py
+   ```
+ 
