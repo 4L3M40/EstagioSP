@@ -1,3 +1,12 @@
+# Repositório de Exercícios em Python
+
+![GitHub license](https://img.shields.io/github/license/4L3M40/Repositorio_de_Exercicios_Python_2)
+![GitHub repo size](https://img.shields.io/github/repo-size/4L3M40/Repositorio_de_Exercicios_Python_2)
+![GitHub last commit](https://img.shields.io/github/last-commit/4L3M40/Repositorio_de_Exercicios_Python_2)
+![GitHub stars](https://img.shields.io/github/stars/4L3M40/Repositorio_de_Exercicios_Python_2)
+![GitHub issues](https://img.shields.io/github/issues/4L3M40/Repositorio_de_Exercicios_Python_2)
+
+
 # Repositório de Exercícios
 
 Este repositório contém a resolução de exercícios de lógica de programação em Python. Abaixo estão as descrições e detalhes de funcionamento de cada exercício.
@@ -111,4 +120,4 @@ Este exercício inverte uma string fornecida pelo usuário. O código percorre a
    ```bash
    python nome_do_arquivo.py
    ```
- 
+
